@@ -70,7 +70,7 @@ int main()
 # Symbol Found:
 <img width="774" height="421" alt="Screenshot 2025-08-28 221200" src="https://github.com/user-attachments/assets/e2821332-a49a-43bd-9842-442135c7d055" />
 
-# Symbol Found:
+# Symbol Not Found:
 <img width="780" height="433" alt="Screenshot 2025-08-28 221306" src="https://github.com/user-attachments/assets/fb2bfb4c-b288-4c7f-a1d8-74fc1a01cd63" />
 
 # RESULT
